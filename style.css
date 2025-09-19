@@ -140,6 +140,11 @@ margin-top: 10%;
     #pr{
         margin-top: 10%;
     }
+    .container{
+        margin: 0 auto;
+        width: 90%;
+        max-width: 1200px;
+    }
     
 
    
